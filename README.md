@@ -1,3 +1,3 @@
 # HumaFarhan
 wellcome
-author Alhalmdulliah
+Alhalmdulliah
