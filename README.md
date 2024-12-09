@@ -1,3 +1,3 @@
 # HumaFarhan
-wellcome
-Alhalmdulliah
+welcome
+Alhalmdullilah
